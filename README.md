@@ -10,3 +10,7 @@
 ## Sobre o Projeto 💻
 
 Foi desenvolvido em Android Studio um protótipo funcional de um dos dois aplicativos propostos pelo nosso grupo.
+
+## Obsevação 👀
+
+Versão para continuação do desenvolvimento e pesquisas no https://github.com/bahguima/formapass1
